@@ -1,0 +1,34 @@
+h2{
+    color: mediumpurple;
+    font-family: serif;
+    font-family: serif;
+    text-decoration: underline;
+}
+
+
+
+.centervideo{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+h3{
+    color: mediumpurple;
+    font-family: serif;
+}
+
+body{
+    background-color: lightcoral;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.link{
+    font-style: italic;
+    text-decoration: underline;
+}

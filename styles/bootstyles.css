@@ -1,0 +1,56 @@
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    border: solid 2px black;
+    word-spacing: 100px;
+    font-weight: 700;
+    font-size: 30px;
+    background-color: rgb(231, 220, 220);
+}
+
+.mainbody{
+    left: 5px;
+    right: 5px;
+    top: 115px;
+    bottom: 65px;
+    
+}
+
+.tableau1{
+    font-size: 20px;
+    font-weight: 300;
+    font-style: italic;   
+   
+}
+.footer{
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    border: solid 2px black;
+}
+
+.tableauPlaceholder{
+    max-width:50%;
+    max-height:50%;
+}
+
+body{
+    background-color: rgb(204, 239, 250)
+}
+
+h2{
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.651);
+}
+
+.right{
+    float: right;
+}
